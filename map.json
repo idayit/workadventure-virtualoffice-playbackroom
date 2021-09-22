@@ -455,7 +455,7 @@
         {
          "columns":16,
          "firstgid":1775,
-         "image":"..\/workadventure-virtualoffice-sesame\/src\/tilesets\/tilesets_deviant_milkian_3.png",
+         "image":"src\/assets\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -463,34 +463,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":97,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":98,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":99,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
